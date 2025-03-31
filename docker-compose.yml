@@ -50,7 +50,7 @@ services:
       - app_network
 
   migrations:
-    image: jimmy914/alpha_be:0.2.0
+    image: jimmy914/alpha_be:0.3.0
     command: sh entrypoint.sh
     depends_on:
       - db
@@ -62,7 +62,7 @@ services:
       - app_network
 
   conever_api:
-    image: jimmy914/alpha_be:0.2.0
+    image: jimmy914/alpha_be:0.3.0
     command: daphne -b 0.0.0.0 -p 8000 config.asgi:application
     ports:
       - "8000:8000"

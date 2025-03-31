@@ -25,6 +25,6 @@ urlpatterns = [
         'get': 'retrieve'
     })),
     path('course/', CourseView.as_view({
-        'post': 'create'  #
+        'post': 'create'
     }), name='save-course'),
 ]
