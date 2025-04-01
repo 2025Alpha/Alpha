@@ -27,4 +27,8 @@ urlpatterns = [
     path('course/', CourseView.as_view({
         'post': 'create'
     }), name='save-course'),
+
+    path('course/<int:pk>/', CourseView.as_view({
+        'get': 'retrieve',
+    }), name='course-detail'),
 ]
