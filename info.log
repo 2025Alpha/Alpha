@@ -1,0 +1,181 @@
+WARNING 2025-03-31 16:12:12,628 log 2796 13504 Forbidden: /tour/
+WARNING 2025-03-31 16:14:37,011 log 11092 7596 Forbidden: /tour/
+INFO 2025-03-31 16:16:38,411 authentications 8160 12936 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 16:16:38,879 authentications 8160 12936 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:16:39,046 log 8160 12936 Not Found: /tour/get_area_list/
+INFO 2025-03-31 16:16:39,048 authentications 8160 12936 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:18:07,456 log 18076 3660 Forbidden: /tour/
+WARNING 2025-03-31 16:31:37,489 log 9072 11676 Forbidden: /tour/course/
+INFO 2025-03-31 16:31:56,478 authentications 18276 17580 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 16:31:56,929 authentications 18276 17580 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:31:57,104 log 18276 17580 Not Found: /tour/get_area_list/
+INFO 2025-03-31 16:31:57,105 authentications 18276 17580 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:32:10,723 log 12816 12780 Forbidden: /tour/
+WARNING 2025-03-31 16:33:06,920 log 3928 12780 Forbidden: /tour/
+INFO 2025-03-31 16:33:08,944 authentications 3928 12780 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 16:33:09,457 authentications 3928 12780 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:33:09,671 log 3928 12780 Not Found: /tour/get_area_list/
+INFO 2025-03-31 16:33:09,672 authentications 3928 12780 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 16:33:11,513 log 3928 12780 Forbidden: /tour/
+WARNING 2025-03-31 16:33:16,873 log 3928 12780 Forbidden: /tour/
+INFO 2025-03-31 16:38:42,929 autoreload 5092 17728 Watching for file changes with StatReloader
+WARNING 2025-03-31 16:42:56,583 log 5092 10248 Forbidden: /tour/course/
+WARNING 2025-03-31 16:42:56,584 basehttp 5092 10248 "POST /tour/course/ HTTP/1.1" 403 37
+INFO 2025-03-31 17:19:18,789 autoreload 13040 20136 Watching for file changes with StatReloader
+INFO 2025-03-31 17:47:30,951 autoreload 17672 7076 Watching for file changes with StatReloader
+INFO 2025-03-31 17:48:09,410 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,460 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,551 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,651 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,745 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,811 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,881 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:09,942 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:48:09,946 log 9108 12912 Not Found: /tour/1/
+INFO 2025-03-31 17:48:10,020 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:10,087 authentications 9108 12912 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:48:10,092 log 9108 12912 Not Found: /tour/1/
+INFO 2025-03-31 17:48:28,176 authentications 10684 5076 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:28,236 authentications 10684 5076 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:48:28,351 authentications 10684 5076 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:48:28,352 log 10684 5076 Bad Request: /tour/course/
+INFO 2025-03-31 17:48:28,397 authentications 10684 5076 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:48:28,400 log 10684 5076 Forbidden: /tour/course/
+INFO 2025-03-31 17:50:51,265 authentications 20796 17868 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:50:51,322 authentications 20796 17868 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-03-31 17:50:51,424 authentications 20796 17868 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:50:51,425 log 20796 17868 Bad Request: /tour/course/
+INFO 2025-03-31 17:50:51,469 authentications 20796 17868 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-03-31 17:50:51,473 log 20796 17868 Forbidden: /tour/course/
+WARNING 2025-04-01 01:00:51,985 log 20048 4408 Forbidden: /tour/
+WARNING 2025-04-01 01:02:01,980 log 19120 17052 Forbidden: /tour/
+INFO 2025-04-01 01:33:57,484 autoreload 21376 2196 Watching for file changes with StatReloader
+WARNING 2025-04-01 01:34:17,817 log 1540 16932 Forbidden: /tour/
+INFO 2025-04-01 01:35:06,768 autoreload 21376 2196 C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\jwt\algorithms.py changed, reloading.
+INFO 2025-04-01 01:35:07,757 autoreload 20220 21312 Watching for file changes with StatReloader
+WARNING 2025-04-01 01:35:34,659 log 16564 2852 Forbidden: /tour/
+INFO 2025-04-01 01:40:43,196 autoreload 12460 17524 Watching for file changes with StatReloader
+WARNING 2025-04-01 01:41:19,611 log 14092 5844 Forbidden: /tour/
+INFO 2025-04-01 01:41:21,908 authentications 14092 5844 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 01:41:22,368 authentications 14092 5844 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 01:41:22,558 log 14092 5844 Not Found: /tour/get_area_list/
+INFO 2025-04-01 01:41:22,560 authentications 14092 5844 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 01:41:24,777 log 14092 5844 Forbidden: /tour/
+WARNING 2025-04-01 01:41:31,559 log 14092 5844 Forbidden: /tour/
+INFO 2025-04-01 10:19:18,677 autoreload 13600 18996 Watching for file changes with StatReloader
+WARNING 2025-04-01 10:20:26,284 log 18304 18032 Forbidden: /tour/
+INFO 2025-04-01 10:54:01,867 authentications 18872 17972 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 10:54:02,650 authentications 18872 17972 익명의 유저가 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 10:54:03,046 log 18872 17972 Not Found: /tour/get_area_list/
+INFO 2025-04-01 10:54:03,049 authentications 18872 17972 익명의 유저가 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:01:50,070 autoreload 13600 18996 C:\Users\user\Desktop\Alpha\tour\views.py changed, reloading.
+INFO 2025-04-01 11:01:52,216 autoreload 10392 10752 Watching for file changes with StatReloader
+INFO 2025-04-01 11:03:40,579 autoreload 10392 10752 C:\Users\user\Desktop\Alpha\tour\urls.py changed, reloading.
+INFO 2025-04-01 11:03:42,723 autoreload 2488 3520 Watching for file changes with StatReloader
+WARNING 2025-04-01 11:11:37,901 log 5012 16932 Forbidden: /tour/
+INFO 2025-04-01 11:21:44,794 authentications 8404 4616 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:21:45,145 authentications 8404 4616 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:21:45,312 authentications 8404 4616 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 11:21:45,314 log 8404 4616 Bad Request: /tour/course/
+INFO 2025-04-01 11:21:45,536 authentications 8404 4616 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 11:21:45,548 log 8404 4616 Forbidden: /tour/course/
+INFO 2025-04-01 11:22:13,506 authentications 12760 4904 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:22:13,640 authentications 12760 4904 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:22:13,844 authentications 12760 4904 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+INFO 2025-04-01 11:22:13,964 authentications 12760 4904 회원번호 3935716527이 백엔드 api에 접근 중입니다.
+WARNING 2025-04-01 11:22:13,973 log 12760 4904 Forbidden: /tour/course/99999/
+INFO 2025-04-01 18:05:49,675 autoreload 18156 17268 Watching for file changes with StatReloader
+INFO 2025-04-01 18:20:35,796 autoreload 5732 11916 Watching for file changes with StatReloader
+INFO 2025-04-01 18:27:17,578 autoreload 12156 9536 Watching for file changes with StatReloader
+INFO 2025-04-01 21:05:25,414 autoreload 16712 14952 Watching for file changes with StatReloader
+INFO 2025-04-01 23:52:50,291 autoreload 11016 6960 Watching for file changes with StatReloader
+WARNING 2025-04-02 00:05:38,615 log 11016 2532 Not Found: /tour/recommend
+WARNING 2025-04-02 00:05:38,616 basehttp 11016 2532 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+INFO 2025-04-02 00:05:38,619 basehttp 11016 2532 - Broken pipe from ('127.0.0.1', 63305)
+WARNING 2025-04-02 00:06:49,208 log 11016 6916 Not Found: /tour/recommend
+WARNING 2025-04-02 00:06:49,209 basehttp 11016 6916 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+WARNING 2025-04-02 00:11:21,192 log 11016 10612 Not Found: /tour/recommend
+WARNING 2025-04-02 00:11:21,193 basehttp 11016 10612 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+INFO 2025-04-02 00:11:21,194 basehttp 11016 10612 - Broken pipe from ('127.0.0.1', 63451)
+INFO 2025-04-02 00:22:39,164 authentications 2988 11672 익명의 유저가 백엔드 api에 접근 중입니다.
+ERROR 2025-04-02 00:22:39,283 log 2988 11672 Internal Server Error: /tour/get_area_list/
+Traceback (most recent call last):
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\Alpha\tour\views.py", line 209, in list
+    area_list = tour.get_sigungu_code_list()
+  File "C:\Users\user\Desktop\Alpha\tour\modules\tour_api.py", line 233, in get_sigungu_code_list
+    if response.json()['response']['body']['totalCount'] == 0: # 컨텐츠가 없으면 빈 리스트 반환
+       ~~~~~~~~~~~~~^^
+  File "C:\Users\user\PyCharmMiscProject\.venv\Lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-04-02 00:26:14,226 log 9620 14376 Forbidden: /tour/
+INFO 2025-04-02 12:24:49,640 autoreload 13968 5268 Watching for file changes with StatReloader
+WARNING 2025-04-02 12:24:57,178 log 13968 1924 Not Found: /tour/recommend
+WARNING 2025-04-02 12:24:57,179 basehttp 13968 1924 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+WARNING 2025-04-02 12:52:07,080 log 13968 15184 Not Found: /ws/task/
+WARNING 2025-04-02 12:52:07,081 basehttp 13968 15184 "GET /ws/task/?user_id=1&areaCode=1&sigunguName=%EC%A2%85%EB%A1%9C%EA%B5%AC HTTP/1.1" 404 2863
+INFO 2025-04-02 12:52:07,084 basehttp 13968 15184 - Broken pipe from ('127.0.0.1', 49670)
+WARNING 2025-04-02 12:53:11,523 log 13968 16600 Not Found: /tour/recommend
+WARNING 2025-04-02 12:53:11,524 basehttp 13968 16600 "GET /tour/recommend?user_id=111&areaCode=1&sigunguName=%EA%B0%95%EB%82%A8%EA%B5%AC HTTP/1.1" 404 4888
+WARNING 2025-04-02 12:53:33,906 log 13968 18604 Not Found: /tour/recommend/
+WARNING 2025-04-02 12:53:33,907 basehttp 13968 18604 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EA%B0%95%EB%82%A8%EA%B5%AC HTTP/1.1" 404 4891
+WARNING 2025-04-02 12:53:38,861 log 13968 20152 Not Found: /tour/recommend
+WARNING 2025-04-02 12:53:38,861 basehttp 13968 20152 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+WARNING 2025-04-02 12:53:39,812 log 13968 1064 Not Found: /tour/recommend
+WARNING 2025-04-02 12:53:39,813 basehttp 13968 1064 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+INFO 2025-04-02 12:53:39,814 basehttp 13968 1064 - Broken pipe from ('127.0.0.1', 49684)
+WARNING 2025-04-02 12:53:40,480 log 13968 11156 Not Found: /tour/recommend
+WARNING 2025-04-02 12:53:40,481 basehttp 13968 11156 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+INFO 2025-04-02 12:53:40,483 basehttp 13968 11156 - Broken pipe from ('127.0.0.1', 49685)
+WARNING 2025-04-02 12:53:40,967 log 13968 14868 Not Found: /tour/recommend
+WARNING 2025-04-02 12:53:40,968 basehttp 13968 14868 "GET /tour/recommend?areaCode=1&user_id=111 HTTP/1.1" 404 4844
+INFO 2025-04-02 13:00:31,925 autoreload 8608 2304 Watching for file changes with StatReloader
+WARNING 2025-04-02 13:00:48,731 log 8608 18400 Not Found: /tour/recommend/
+WARNING 2025-04-02 13:00:48,731 basehttp 8608 18400 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EC%A2%85%EB%A1%9C%EA%B5%AC HTTP/1.1" 404 4891
+INFO 2025-04-02 13:00:48,733 basehttp 8608 18400 - Broken pipe from ('127.0.0.1', 49774)
+WARNING 2025-04-02 13:00:49,577 log 8608 18736 Not Found: /tour/recommend/
+WARNING 2025-04-02 13:00:49,577 basehttp 8608 18736 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EC%A2%85%EB%A1%9C%EA%B5%AC HTTP/1.1" 404 4891
+WARNING 2025-04-02 13:00:50,098 log 8608 10632 Not Found: /tour/recommend/
+WARNING 2025-04-02 13:00:50,098 basehttp 8608 10632 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EC%A2%85%EB%A1%9C%EA%B5%AC HTTP/1.1" 404 4891
+INFO 2025-04-02 13:00:50,100 basehttp 8608 10632 - Broken pipe from ('127.0.0.1', 49776)
+INFO 2025-04-02 13:08:30,446 autoreload 6348 12568 Watching for file changes with StatReloader
+INFO 2025-04-03 12:07:51,438 autoreload 13752 10300 Watching for file changes with StatReloader
+WARNING 2025-04-03 12:08:03,071 log 13752 8672 Not Found: /tour/recommend/
+WARNING 2025-04-03 12:08:03,073 basehttp 13752 8672 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EA%B0%95%EB%82%A8%EA%B5%AC HTTP/1.1" 404 4891
+WARNING 2025-04-03 12:08:04,647 log 13752 6304 Not Found: /tour/recommend/
+WARNING 2025-04-03 12:08:04,648 basehttp 13752 6304 "GET /tour/recommend/?user_id=111&areaCode=1&sigunguName=%EA%B0%95%EB%82%A8%EA%B5%AC HTTP/1.1" 404 4891
+INFO 2025-04-07 14:23:16,944 autoreload 12040 9048 Watching for file changes with StatReloader
